@@ -10,8 +10,8 @@
    <Creatives>
     <Creative id="138382063765" AdID="H0Hrk8zCNZI" sequence="1">
      <UniversalAdId idRegistry="googlevideo" idValue="H0Hrk8zCNZI">H0Hrk8zCNZI</UniversalAdId>
-     <Linear skipoffset="00:00:10">
-      <Duration>00:00:10</Duration>
+     <Linear skipoffset="00:00:03">
+      <Duration>00:00:03</Duration>
       <TrackingEvents>
        <Tracking event="start"><![CDATA[https://pubads.g.doubleclick.net/pagead/interaction/?ai=BMGcxV2vZZcPoFvbx7OsP69iuiAOf4LWVRgAAABABII64hW84AViV8drBgwRgiePFhPQTugEKNzI4eDkwX3htbMgBBcACAuACAOoCLi8yMTc3NTc0NDkyMy9leHRlcm5hbC9zaW5nbGVfcHJlcm9sbF9za2lwcGFibGX4AvnRHoADAZAD7AmYA6QDqAMB4AQB0gUGEMrbhIoWkAYBoAYjqAe4vrECqAeaBqgH89EbqAeW2BuoB6qbsQKoB4OtsQKoB-C9sQKoB_-esQKoB9-fsQLYBwHSCCQIgGEQARgdMgKKAjoJgECAwICAgIAISL39wTpYy8SX8YzDhAPYCAKACgWYCwGqDQJKUNAVAfgWAYAXAQ&sigh=MtSpJ5OqrwQ&label=part2viewed&ad_mt=%5BAD_MT%5D]]></Tracking>
        <Tracking event="firstQuartile"><![CDATA[https://pubads.g.doubleclick.net/pagead/interaction/?ai=BMGcxV2vZZcPoFvbx7OsP69iuiAOf4LWVRgAAABABII64hW84AViV8drBgwRgiePFhPQTugEKNzI4eDkwX3htbMgBBcACAuACAOoCLi8yMTc3NTc0NDkyMy9leHRlcm5hbC9zaW5nbGVfcHJlcm9sbF9za2lwcGFibGX4AvnRHoADAZAD7AmYA6QDqAMB4AQB0gUGEMrbhIoWkAYBoAYjqAe4vrECqAeaBqgH89EbqAeW2BuoB6qbsQKoB4OtsQKoB-C9sQKoB_-esQKoB9-fsQLYBwHSCCQIgGEQARgdMgKKAjoJgECAwICAgIAISL39wTpYy8SX8YzDhAPYCAKACgWYCwGqDQJKUNAVAfgWAYAXAQ&sigh=MtSpJ5OqrwQ&label=videoplaytime25&ad_mt=%5BAD_MT%5D]]></Tracking>
@@ -62,19 +62,12 @@
     <Creative id="138381056765" sequence="1">
      <UniversalAdId idRegistry="unknown"/>
      <CompanionAds>
-      <Companion id="138381056765" width="300" height="250">
-       <StaticResource creativeType="image/png"><![CDATA[https://pagead2.googlesyndication.com/simgad/4446644594546952943]]></StaticResource>
-       <TrackingEvents>
-        <Tracking event="creativeView"><![CDATA[https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstObZKwDOpufnQ1L7b4FEf9_ch2LIA2WHLl26qCo7Itsi6mxN38GgCGZwDDjkXWWICuoe7qv3xwYgRv1pExVu68Gspxzjp0hRX2Oax49RgI-u7YV5207XdKaO43kyIv8h3O2jieHOYLP7Nz3JkwGFvmJ-BYBKSPwKkPEaUKZZAQCFJb8f8uzHlinsXrOVS0Uhs9-eD3LBmn2Fscxo5XTDxVenywCwk_bGdwLVfR7awPW8SY3Rtnw1dJtn3t8eWQimmd9qu9Cs_PN-Vww9HV0VdOiHq-RLZaml1IE5ufxQjlxcrXIHa9uF2eJFSZWZdngrd8w8Qvagk7uNy6WE17nC-IDEi4rPU601fl8XE&sai=AMfl-YS26obEA8UeRBJNYas_ntwBeSeL18td39sOtRSlLeUyxfrp5E7RfmUv_kmUxdAYx-D0KJDJ8LsxJHBPJlM&sig=Cg0ArKJSzF0W0aZk6aJcEAE&uach_m=%5BUACH%5D&adurl=]]></Tracking>
-       </TrackingEvents>
-       <CompanionClickThrough><![CDATA[https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjssh1H6eDb8dDJD3VZM40TLVI1P8Em1qWZkK_UPCKLUco9jJafN6csiYA7UxEFcMuFs9pp998dTg4PVPOX56UGnRLqaG_OfziGqqne_dabw4EXzJM9rIlHIWb2VA89Fdeq3TvLgq9Vpi-HvPIOOrqdmoi28w3L-JoDztrXh0jRXjrlpR08lDgVsNjh0CLNZHUUMbk2KgA2whbIO4cmv6MxkSbsrJm9kN6Hpl5OFvprxkDO5bN_UqZlGx7NfLiY2U4mQraCnqA0K8b3qA3V3LedFv1JVDkWCPzh4slueJOOv54OfhvVbac5F_Xyu27cxrLhMTvLOEAahtfCsJSQTWKLqEuQQ4GIKe&sai=AMfl-YSrRD1qe95P54UJrRLFuBJL2fn4FL-SBCpNiQlelpuHAa_zL-4wam0FXYdaQO_vLu1AcyQKqFi7tH_h4II&sig=Cg0ArKJSzMeGGawDyViG&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://googleads.github.io/googleads-ima-html5/vsi/]]></CompanionClickThrough>
-      </Companion>
       <Companion id="138381188849" width="728" height="90">
-       <StaticResource creativeType="image/png"><![CDATA[https://pagead2.googlesyndication.com/simgad/7802555171787573026]]></StaticResource>
+       <StaticResource creativeType="image/png"><![CDATA[https://my-video-vast.s3.ap-northeast-1.amazonaws.com/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88+2024-02-24+19.46.29.png]]></StaticResource>
        <TrackingEvents>
         <Tracking event="creativeView"><![CDATA[https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsuPhlegdXQqdlHBro5YH_mpwAfC5X9Nf_fe4LPLAJr8J6OntRENyT4YPPhwd3z08UenE2szdeEs11Z0Nt9W3HUE2cUxn6hEoTbsHapU86WGK-KCEoWKB-TcIOOuSZTFjrH9XvX1Dugg1-MZapUToREGBH7vFHcMunKQZlRF4xqCQC1AJ__iafYb7NqtALe2YyP0PVQ61Jn9Ejk3I4pu21FnM1lY1XRvlz9ONA8O07jHwuqMAokZ0hQUqjRSTJ-UsxBXSle8VAJTIzgyKfhXLPG7PWSUYu_CPagFXuWyniEofWKHa42LzpKNgsohtKVK4QAPyQm63sHaiUBgRgCGWgK6opdAknCs66Kse_I&sai=AMfl-YR92rYz3KPSPWn37EpZ6PIPAQkZG1xvndB18v1UB9ouREexk53MNtnSOh43jA6u6P7KPzPwmTE_CKDQOXI&sig=Cg0ArKJSzGCPipe5X5xyEAE&uach_m=%5BUACH%5D&adurl=]]></Tracking>
        </TrackingEvents>
-       <CompanionClickThrough><![CDATA[https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjsu1kLR4do_DvWBpQ0gMIhFEimODhfYpGVEFj9CF3sHCdBJ1u_AsTFLTScTqP7Wy94DgcWF9YDHx-s-cCW7zbBQ7bbKUuQEh-JynMVNnyGkKJuahky5Y0mvbMR5U83NHwN67RSKhxh26mHw_I_0ZYVE48aYy5Hj91mssLzEYhk1KZ6Jizki7WCcX58PtO39LAoFxWDEEBK3_Ot3iAYfN0WZNXYYAoNy5HTAjX6huwCTwSBPVTvwAzwFowIB2Khu62o00WS8JSUPvS3hE5KVN96shQvzJaz9s7CjbQ7hsjKnvWJhTqPLMDjbbFTYz260iAsil49QFreF1azNGe0qWF2xcuj1cYaHU&sai=AMfl-YQwF33TnAa4IjUfgEeRuD9mJBc9kdiKeay53Wqg_Egl1O1MCXV1hQybeN8yl1Bd-GzBq9WiPHNQ1CK7bfM&sig=Cg0ArKJSzPR3gxq_Z547&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://googleads.github.io/googleads-ima-html5/vsi/]]></CompanionClickThrough>
+       <CompanionClickThrough><![CDATA[https://recruit-newgrad.supership.jp/contents/workstyle-office.html]]></CompanionClickThrough>
       </Companion>
      </CompanionAds>
     </Creative>
