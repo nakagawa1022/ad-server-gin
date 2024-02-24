@@ -38,5 +38,11 @@ func main() {
 		c.Data(http.StatusOK, "application/xml; charset=utf-8", []byte(vastXML))
 	})
 
+	port := os.Getenv("PORT") // Herokuで動的に割り当てられたポートを取得
+	if port == "" {
+		port = "8080" // ローカルでのデフォルトポート
+	}
+	r.Run(":" + port)
+
 	r.Run(":8080")
 }
